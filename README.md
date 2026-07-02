@@ -1,1 +1,0 @@
-# Mining_data_aggregation_pipeline
