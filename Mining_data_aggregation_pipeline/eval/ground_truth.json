@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "question": "最近铜价走势如何？",
+    "expected_answer": "LME铜价近期呈现波动走势，受全球铜矿产量增长预期和电动汽车需求支撑双重因素影响，价格在72000元/吨附近波动。",
+    "expected_keywords": ["铜", "价格", "上涨", "下跌", "LME", "SHFE"],
+    "expected_source_type": "price",
+    "expected_commodity": "copper"
+  },
+  {
+    "id": 2,
+    "question": "稀土行业有哪些最新政策？",
+    "expected_answer": "中国发布了关于加强稀土行业管理的通知，严格控制开采总量，完善出口配额制度。工信部发布了稀土产业高质量发展规划，目标到2030年稀土新材料产值突破5000亿元。商务部对铟锗镓等稀散金属实施出口管制。",
+    "expected_keywords": ["稀土", "政策", "法规", "监管", "产业"],
+    "expected_source_type": "policy",
+    "expected_commodity": "rare_earth"
+  },
+  {
+    "id": 3,
+    "question": "铝的期货价格是多少？",
+    "expected_answer": "有色金属行业碳达峰实施方案提出到2040年电解铝使用可再生能源比例提升至50%以上。SHFE铝期货价格在20000元/吨附近波动。",
+    "expected_keywords": ["铝", "价格", "期货", "SHFE"],
+    "expected_source_type": "price",
+    "expected_commodity": "aluminium"
+  },
+  {
+    "id": 4,
+    "question": "矿业新闻有哪些重要事件？",
+    "expected_answer": "近期矿业重要事件包括：智利铜矿新项目投产、澳大利亚铁矿石出口创新高、印尼调整镍矿出口政策、非洲锂矿开发加速、加拿大黄金矿业并购等。",
+    "expected_keywords": ["矿业", "新闻", "事件", "公司", "项目"],
+    "expected_source_type": "news",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 5,
+    "question": "镍价近期变化大吗？",
+    "expected_answer": "LME镍价近期受印尼出口政策调整影响出现波动，印尼加强原矿出口限制导致下游电池制造商面临原材料成本上升压力。",
+    "expected_keywords": ["镍", "价格", "变动", "波动"],
+    "expected_source_type": "price",
+    "expected_commodity": "nickel"
+  },
+  {
+    "id": 6,
+    "question": "中国稀土集团发布了什么消息？",
+    "expected_answer": "中国稀土集团相关政策和行业管理通知，包括稀土行业管理通知、稀土产业高质量发展规划等，重点涉及开采总量控制和产业整合。",
+    "expected_keywords": ["稀土", "中国稀土", "集团", "发布"],
+    "expected_source_type": "policy",
+    "expected_commodity": "rare_earth"
+  },
+  {
+    "id": 7,
+    "question": "锌的市场行情怎么样？",
+    "expected_answer": "全球锌矿供应紧张，产量同比下降3.2%，需求保持温和增长，供给缺口推动LME锌价持续走高。",
+    "expected_keywords": ["锌", "行情", "价格", "市场"],
+    "expected_source_type": "price",
+    "expected_commodity": "zinc"
+  },
+  {
+    "id": 8,
+    "question": "自然资源部出台了什么矿业政策？",
+    "expected_answer": "自然资源部出台了矿产资源开发利用方案审查办法、矿业权制度改革意见、矿业领域生态文明建设实施方案等政策，重点规范矿业权管理和绿色发展。",
+    "expected_keywords": ["自然资源", "矿业", "政策", "法规"],
+    "expected_source_type": "policy",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 9,
+    "question": "黄金价格涨了吗？",
+    "expected_answer": "黄金价格受Barrick Gold等大型矿企并购活动推动，市场对金矿资源储备需求增加，金价在560元/克附近波动。",
+    "expected_keywords": ["黄金", "价格", "上涨", "金"],
+    "expected_source_type": "price",
+    "expected_commodity": "gold"
+  },
+  {
+    "id": 10,
+    "question": "LME金属价格整体趋势如何？",
+    "expected_answer": "LME铜、锌、镍价格整体呈现波动走势。铜受产量增长预期影响，锌因供应紧张价格走高，镍受印尼政策调整出现波动。",
+    "expected_keywords": ["LME", "金属", "价格", "趋势"],
+    "expected_source_type": "price",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 11,
+    "question": "近7天澳洲锂出口政策有何变化？",
+    "expected_answer": "澳大利亚DISR更新了锂矿出口管制政策，要求年产能超过5万吨的锂精矿出口商须获得联邦政府审批。Australia's Critical Minerals Strategy 2024-2034提出加强锂和镍加工能力建设。",
+    "expected_keywords": ["澳洲", "锂", "出口", "政策", "DISR"],
+    "expected_source_type": "policy",
+    "expected_commodity": "lithium"
+  },
+  {
+    "id": 12,
+    "question": "矿业公司最近的并购动态？",
+    "expected_answer": "Barrick Gold宣布32亿美元收购中型金矿企业，S&P Global报告显示2026年上半年全球矿业并购总额达1250亿美元，铜和锂矿资产最受追捧。",
+    "expected_keywords": ["矿业", "公司", "并购", "收购"],
+    "expected_source_type": "news",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 13,
+    "question": "铁矿石价格行情怎么样？",
+    "expected_answer": "澳大利亚铁矿石出口创历史新高，主要出口中国和日本。上海钢联铁矿石价格在800元/吨附近波动。蒙古国煤炭出口同比增长35%。",
+    "expected_keywords": ["铁矿石", "价格", "行情", "Mysteel"],
+    "expected_source_type": "price",
+    "expected_commodity": "iron_ore"
+  },
+  {
+    "id": 14,
+    "question": "稀土镨钕氧化物价格是多少？",
+    "expected_answer": "稀土镨钕氧化物价格在520000元/吨附近波动，受稀土行业管理政策收紧和分离技术突破影响。",
+    "expected_keywords": ["稀土", "镨钕", "氧化物", "价格"],
+    "expected_source_type": "price",
+    "expected_commodity": "rare_earth"
+  },
+  {
+    "id": 15,
+    "question": "工信部关于矿业有什么新规定？",
+    "expected_answer": "工信部发布了有色金属行业碳达峰实施方案和稀土产业高质量发展规划，目标到2030年有色金属行业碳排放达峰，稀土新材料产值突破5000亿元。",
+    "expected_keywords": ["工信部", "矿业", "规定", "政策"],
+    "expected_source_type": "policy",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 16,
+    "question": "碳酸锂期货价格走势分析",
+    "expected_answer": "SHFE碳酸锂期货价格在95000元/吨附近波动，受澳洲锂出口政策和国内新能源汽车产业需求增长双重影响。",
+    "expected_keywords": ["碳酸锂", "期货", "价格", "走势", "锂"],
+    "expected_source_type": "price",
+    "expected_commodity": "lithium"
+  },
+  {
+    "id": 17,
+    "question": "铜矿开采行业最新动态",
+    "expected_answer": "智利新铜矿项目投产预计年产能15万吨，秘鲁铜矿社区抗议影响月产量3万吨，全球铜矿产量预计增长。",
+    "expected_keywords": ["铜矿", "开采", "行业", "动态"],
+    "expected_source_type": "news",
+    "expected_commodity": "copper"
+  },
+  {
+    "id": 18,
+    "question": "澳洲关键矿产战略有哪些内容？",
+    "expected_answer": "澳洲DISR发布了Critical Minerals Strategy 2024-2034，重点包括：加强锂和镍加工能力、建立主权电池材料供应链、加强与盟友伙伴关系、促进可持续采矿。投资40亿澳元支持关键矿产下游加工。",
+    "expected_keywords": ["澳洲", "关键矿产", "战略", "DISR"],
+    "expected_source_type": "policy",
+    "expected_commodity": "lithium"
+  },
+  {
+    "id": 19,
+    "question": "上海期货交易所有色金属行情",
+    "expected_answer": "SHFE碳酸锂期货价格约95000元/吨，铝期货约20000元/吨，有色金属行业碳达峰方案推动绿色转型。",
+    "expected_keywords": ["上海期货", "有色金属", "行情", "SHFE"],
+    "expected_source_type": "price",
+    "expected_commodity": "other"
+  },
+  {
+    "id": 20,
+    "question": "全球矿业市场有哪些重要变化？",
+    "expected_answer": "全球矿业市场重要变化包括：铜矿产量增长、铁矿石出口创新高、印尼镍矿政策调整、锂矿开发加速、矿业并购创纪录、稀土技术突破、深海采矿试验进展等。",
+    "expected_keywords": ["全球", "矿业", "市场", "变化"],
+    "expected_source_type": "news",
+    "expected_commodity": "other"
+  }
+]
