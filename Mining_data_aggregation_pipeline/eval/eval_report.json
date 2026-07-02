@@ -1,0 +1,289 @@
+{
+  "total_questions": 20,
+  "successful_queries": 20,
+  "failed_queries": 0,
+  "top_k": 5,
+  "avg_recall_at_k": 0.4067,
+  "items": [
+    {
+      "id": 1,
+      "question": "最近铜价走势如何？",
+      "recall": 0.0,
+      "result_count": 5,
+      "hit_keywords": [],
+      "miss_keywords": [
+        "铜",
+        "价格",
+        "上涨",
+        "下跌",
+        "LME",
+        "SHFE"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "稀土行业有哪些最新政策？",
+      "recall": 0.6,
+      "result_count": 5,
+      "hit_keywords": [
+        "稀土",
+        "监管",
+        "产业"
+      ],
+      "miss_keywords": [
+        "政策",
+        "法规"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "铝的期货价格是多少？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "价格",
+        "SHFE"
+      ],
+      "miss_keywords": [
+        "铝",
+        "期货"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "矿业新闻有哪些重要事件？",
+      "recall": 0.2,
+      "result_count": 5,
+      "hit_keywords": [
+        "矿业"
+      ],
+      "miss_keywords": [
+        "新闻",
+        "事件",
+        "公司",
+        "项目"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "镍价近期变化大吗？",
+      "recall": 0.75,
+      "result_count": 5,
+      "hit_keywords": [
+        "镍",
+        "价格",
+        "变动"
+      ],
+      "miss_keywords": [
+        "波动"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "中国稀土集团发布了什么消息？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "稀土",
+        "发布"
+      ],
+      "miss_keywords": [
+        "中国稀土",
+        "集团"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "锌的市场行情怎么样？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "行情",
+        "价格"
+      ],
+      "miss_keywords": [
+        "锌",
+        "市场"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "自然资源部出台了什么矿业政策？",
+      "recall": 0.25,
+      "result_count": 5,
+      "hit_keywords": [
+        "矿业"
+      ],
+      "miss_keywords": [
+        "自然资源",
+        "政策",
+        "法规"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "黄金价格涨了吗？",
+      "recall": 1.0,
+      "result_count": 5,
+      "hit_keywords": [
+        "黄金",
+        "价格",
+        "上涨",
+        "金"
+      ],
+      "miss_keywords": []
+    },
+    {
+      "id": 10,
+      "question": "LME金属价格整体趋势如何？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "LME",
+        "价格"
+      ],
+      "miss_keywords": [
+        "金属",
+        "趋势"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "铅的期货交易情况怎样？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "交易",
+        "价格"
+      ],
+      "miss_keywords": [
+        "铅",
+        "期货"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "矿业公司最近的并购动态？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "矿业",
+        "公司"
+      ],
+      "miss_keywords": [
+        "并购",
+        "收购"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "锡价当前处于什么水平？",
+      "recall": 0.3333,
+      "result_count": 5,
+      "hit_keywords": [
+        "水平"
+      ],
+      "miss_keywords": [
+        "锡",
+        "价格"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "稀土镨钕氧化物价格是多少？",
+      "recall": 0.25,
+      "result_count": 5,
+      "hit_keywords": [
+        "稀土"
+      ],
+      "miss_keywords": [
+        "镨钕",
+        "氧化物",
+        "价格"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "工信部关于矿业有什么新规定？",
+      "recall": 0.25,
+      "result_count": 5,
+      "hit_keywords": [
+        "矿业"
+      ],
+      "miss_keywords": [
+        "工信部",
+        "规定",
+        "政策"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "白银期货价格走势分析",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "白银",
+        "价格"
+      ],
+      "miss_keywords": [
+        "期货",
+        "走势"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "铜矿开采行业最新动态",
+      "recall": 0.0,
+      "result_count": 5,
+      "hit_keywords": [],
+      "miss_keywords": [
+        "铜矿",
+        "开采",
+        "行业",
+        "动态"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "镝的价格行情如何？",
+      "recall": 0.5,
+      "result_count": 5,
+      "hit_keywords": [
+        "价格",
+        "行情"
+      ],
+      "miss_keywords": [
+        "镝",
+        "稀土"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "上海期货交易所有色金属行情",
+      "recall": 0.25,
+      "result_count": 5,
+      "hit_keywords": [
+        "行情"
+      ],
+      "miss_keywords": [
+        "上海期货",
+        "有色金属",
+        "SHFE"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "全球矿业市场有哪些重要变化？",
+      "recall": 0.25,
+      "result_count": 5,
+      "hit_keywords": [
+        "矿业"
+      ],
+      "miss_keywords": [
+        "全球",
+        "市场",
+        "变化"
+      ]
+    }
+  ]
+}
