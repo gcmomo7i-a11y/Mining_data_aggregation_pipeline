@@ -1,0 +1,191 @@
+{
+  "total_questions": 20,
+  "successful_queries": 20,
+  "failed_queries": 0,
+  "top_k": 5,
+  "avg_recall_at_k": 0.4517,
+  "avg_answer_faithfulness": 0.4223,
+  "avg_answer_relevance": 0.3514,
+  "items": [
+    {
+      "id": 1,
+      "question": "最近铜价走势如何？",
+      "recall": 0.8333,
+      "faithfulness": 0.4667,
+      "relevance": 0.54,
+      "answer_preview": "关于铜的变化分析：\n\n最新动态：\n  · LME 铜价格行情 2026-07-02：2026-07-02 LME 铜价格下跌至71624.06美元/吨，较前一交易日变动375.94美元/吨。\n  · ...",
+      "result_count": 5
+    },
+    {
+      "id": 2,
+      "question": "稀土行业有哪些最新政策？",
+      "recall": 0.6,
+      "faithfulness": 0.5385,
+      "relevance": 0.5506,
+      "answer_preview": "根据检索到的稀土相关政策：\n  · 关于加强稀土行业管理的通知 (2026-06-28)\n    核心内容：为规范稀土行业秩序，严格控制稀土开采总量，加强稀土出口管理，推进稀土产业整合，加大环保监管力...",
+      "result_count": 5
+    },
+    {
+      "id": 3,
+      "question": "铝的期货价格是多少？",
+      "recall": 0.5,
+      "faithfulness": 0.5882,
+      "relevance": 0.3444,
+      "answer_preview": "根据检索到的价格数据：\n  · SHFE 碳酸锂价格行情 2026-06-28：2026-06-28 SHFE 碳酸锂价格下跌至94953.93元/吨，较前一交易日变动46.07元/吨。\n  · SH...",
+      "result_count": 5
+    },
+    {
+      "id": 4,
+      "question": "矿业新闻有哪些重要事件？",
+      "recall": 0.0,
+      "faithfulness": 0.5,
+      "relevance": 0.1533,
+      "answer_preview": "根据检索结果综合分析：\n\n【新闻动态】\n  · 澳洲锂出口政策面临调整 (2026-06-23)：澳大利亚工业科学资源部(DISR)发布最新关键矿产战略文件，提出将加强对锂等关键矿产出口的监管框架。新...",
+      "result_count": 5
+    },
+    {
+      "id": 5,
+      "question": "镍价近期变化大吗？",
+      "recall": 0.75,
+      "faithfulness": 0.4667,
+      "relevance": 0.4944,
+      "answer_preview": "关于镍的变化分析：\n\n最新动态：\n  · LME 镍价格行情 2026-05-24：2026-05-24 LME 镍价格上涨至133861.07美元/吨，较前一交易日变动5861.07美元/吨。\n  ...",
+      "result_count": 5
+    },
+    {
+      "id": 6,
+      "question": "中国稀土集团发布了什么消息？",
+      "recall": 0.5,
+      "faithfulness": 0.5,
+      "relevance": 0.3,
+      "answer_preview": "根据检索结果综合分析：\n\n【政策法规】\n  · 战略性矿产资源储备管理办法 (2026-06-27)：储备矿种包括稀土、钨、钼、锑、锡、铟、锗、镓等，储备方式分国家储备和企业储备。 （发布日期: 20...",
+      "result_count": 5
+    },
+    {
+      "id": 7,
+      "question": "锌的市场行情怎么样？",
+      "recall": 0.75,
+      "faithfulness": 0.5882,
+      "relevance": 0.5,
+      "answer_preview": "根据检索到的锌价格数据：\n  · LME 锌价格行情 2026-07-02：2026-07-02 LME 锌价格下跌至21160.45美元/吨，较前一交易日变动839.55美元/吨。\n  · LME ...",
+      "result_count": 5
+    },
+    {
+      "id": 8,
+      "question": "自然资源部出台了什么矿业政策？",
+      "recall": 0.5,
+      "faithfulness": 0.5385,
+      "relevance": 0.5167,
+      "answer_preview": "根据检索到的中国相关政策：\n  · 矿业权制度改革意见 (2026-06-28)\n    核心内容：全面推进矿业权竞争性出让，完善矿业权退出机制，规范矿业权转让行为。 （发布日期: 2026-06-2...",
+      "result_count": 5
+    },
+    {
+      "id": 9,
+      "question": "黄金价格涨了吗？",
+      "recall": 0.0,
+      "faithfulness": 0.0,
+      "relevance": 0.0,
+      "answer_preview": "抱歉，未找到与您问题相关的数据。",
+      "result_count": 0
+    },
+    {
+      "id": 10,
+      "question": "LME金属价格整体趋势如何？",
+      "recall": 0.0,
+      "faithfulness": 0.0,
+      "relevance": 0.0,
+      "answer_preview": "抱歉，未找到与您问题相关的数据。",
+      "result_count": 0
+    },
+    {
+      "id": 11,
+      "question": "近7天澳洲锂出口政策有何变化？",
+      "recall": 1.0,
+      "faithfulness": 0.5385,
+      "relevance": 0.7429,
+      "answer_preview": "根据检索到的澳大利亚锂/碳酸锂相关政策（2026-06-25至2026-07-02）：\n  · 澳洲锂出口管制政策更新 (2026-06-29)\n    核心内容：DISR更新锂矿出口管制政策，年产能...",
+      "result_count": 5
+    },
+    {
+      "id": 12,
+      "question": "矿业公司最近的并购动态？",
+      "recall": 0.5,
+      "faithfulness": 0.5,
+      "relevance": 0.3333,
+      "answer_preview": "根据检索结果综合分析：\n\n【新闻动态】\n  · 非洲锂矿开发加速 (2026-06-26)：非洲多国正加速锂矿资源的勘探与开发。津巴布韦、纳米比亚和马里等国近期相继发放了新的锂矿开采许可证。中国和澳大...",
+      "result_count": 5
+    },
+    {
+      "id": 13,
+      "question": "铁矿石价格行情怎么样？",
+      "recall": 1.0,
+      "faithfulness": 0.5882,
+      "relevance": 0.6,
+      "answer_preview": "根据检索到的铁矿石价格数据：\n  · Mysteel 铁矿石价格行情 2026-06-25：2026-06-25 Mysteel 铁矿石价格下跌至791.05元/吨，较前一交易日变动8.95元/吨。\n...",
+      "result_count": 5
+    },
+    {
+      "id": 14,
+      "question": "稀土镨钕氧化物价格是多少？",
+      "recall": 0.0,
+      "faithfulness": 0.0,
+      "relevance": 0.0,
+      "answer_preview": "抱歉，未找到与您问题相关的数据。",
+      "result_count": 0
+    },
+    {
+      "id": 15,
+      "question": "工信部关于矿业有什么新规定？",
+      "recall": 0.25,
+      "faithfulness": 0.5385,
+      "relevance": 0.3,
+      "answer_preview": "根据检索到的中国相关政策：\n  · 矿业权制度改革意见 (2026-06-14)\n    核心内容：全面推进矿业权竞争性出让，完善矿业权退出机制，规范矿业权转让行为。 （发布日期: 2026-06-1...",
+      "result_count": 5
+    },
+    {
+      "id": 16,
+      "question": "碳酸锂期货价格走势分析",
+      "recall": 0.6,
+      "faithfulness": 0.5882,
+      "relevance": 0.4044,
+      "answer_preview": "根据检索到的锂/碳酸锂价格数据：\n  · SHFE 碳酸锂价格行情 2026-06-24：2026-06-24 SHFE 碳酸锂价格上涨至95895.04元/吨，较前一交易日变动895.04元/吨。\n...",
+      "result_count": 5
+    },
+    {
+      "id": 17,
+      "question": "铜矿开采行业最新动态",
+      "recall": 0.5,
+      "faithfulness": 0.5,
+      "relevance": 0.6,
+      "answer_preview": "根据检索结果综合分析：\n\n【新闻动态】\n  · 全球铜矿产量增长，智利新项目投产 (2026-06-20)：据最新行业报告，全球铜矿产量预计将在2026年实现显著增长。智利国家矿业公司宣布其位于阿塔卡...",
+      "result_count": 5
+    },
+    {
+      "id": 18,
+      "question": "澳洲关键矿产战略有哪些内容？",
+      "recall": 0.5,
+      "faithfulness": 0.5385,
+      "relevance": 0.3471,
+      "answer_preview": "根据检索到的澳大利亚相关政策：\n  · 澳洲锂出口管制政策更新 (2026-06-17)\n    核心内容：DISR更新锂矿出口管制政策，年产能超过5万吨的锂精矿出口商须获联邦审批。新规2026年Q3...",
+      "result_count": 5
+    },
+    {
+      "id": 19,
+      "question": "上海期货交易所有色金属行情",
+      "recall": 0.0,
+      "faithfulness": 0.0,
+      "relevance": 0.0,
+      "answer_preview": "抱歉，未找到与您问题相关的数据。",
+      "result_count": 0
+    },
+    {
+      "id": 20,
+      "question": "全球矿业市场有哪些重要变化？",
+      "recall": 0.25,
+      "faithfulness": 0.4667,
+      "relevance": 0.3,
+      "answer_preview": "关于的变化分析：\n\n最新动态：\n  · 矿业权制度改革意见 (2026-06-26)：全面推进矿业权竞争性出让，完善矿业权退出机制，规范矿业权转让行为。 （发布日期: 2026-06-26，来源: 自...",
+      "result_count": 5
+    }
+  ]
+}
